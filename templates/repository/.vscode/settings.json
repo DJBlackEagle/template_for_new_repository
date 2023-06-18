@@ -1,0 +1,14 @@
+{
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnSave": true,
+  "git.allowNoVerifyCommit": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-issue-config.json": "./.github/ISSUE_TEMPLATE/config.yml"
+  }
+}

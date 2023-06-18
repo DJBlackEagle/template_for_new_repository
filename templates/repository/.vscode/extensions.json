@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "crystal-spider.jsdoc-generator",
+    "mikestead.dotenv",
+    "eamodio.gitlens",
+    "crystal-spider.jsdoc-generator",
+    "Gruntfuggly.todo-tree",
+    "yzhang.markdown-all-in-one"
+  ]
+}
