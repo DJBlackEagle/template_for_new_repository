@@ -1,15 +1,16 @@
-name: '💾 Repository'
-description: 'Something, which depends on this repository.'
+name: '🎫 Todo'
+description: 'A ToDo list, with a checklist. Its for the developer this issue, to make a checklist what todo on other issue.'
+title: '[TODO]: '
 assignees:
   - '{TPL^ASSIGNEE_ISSUE}'
-labels: ['repository']
+labels: ['todo']
 body:
   - type: markdown
     attributes:
       value: |
         ## :warning: We use GitHub Issues to track bug reports, feature requests and regressions
 
-        Use this issue type only, then your issue depends on this repository.
+        This issue type is only for a developer of this repository.
 
         ---
 
@@ -27,5 +28,9 @@ body:
     validations:
       required: true
     attributes:
-      label: 'Describe your request.'
-      description: 'A clear and concise description of your request'
+      label: 'Describe your todo.'
+      description: 'A clear and concise description of your todo and use checkbox for the task list of this todo'
+      placeholder: |
+        This we need todo:
+          - [ ] Add something
+          - [ ] Add this thing

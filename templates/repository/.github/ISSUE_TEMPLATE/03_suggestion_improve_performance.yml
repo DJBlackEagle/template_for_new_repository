@@ -2,7 +2,7 @@ name: '🔥 Suggestion for Improving Performance'
 description: 'I have a suggestion that might improve the performance ✨'
 assignees:
   - '{TPL^ASSIGNEE_ISSUE}'
-labels: ['enhancement', 'needs triage', 'performance']
+labels: ['enhancement', 'performance']
 body:
   - type: checkboxes
     attributes:
