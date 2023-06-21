@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## :warning: We use GitHub Issues to track bug reports, feature requests and regressions
+        ## ⚠️ We use GitHub Issues to track bug reports, feature requests and regressions
 
         Use this issue type only, then your issue depends on this repository.
 
