@@ -6,7 +6,6 @@
     "mikestead.dotenv",
     "eamodio.gitlens",
     "crystal-spider.jsdoc-generator",
-    "Gruntfuggly.todo-tree",
-    "yzhang.markdown-all-in-one"
+    "Gruntfuggly.todo-tree"
   ]
 }
