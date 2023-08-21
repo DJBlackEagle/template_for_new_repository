@@ -41,8 +41,6 @@ body:
       description: 'If you can, explain how users will be able to use this and possibly write out a version the docs. Maybe a screenshot or design?'
 
   - type: textarea
-    validations:
-      required: true
     attributes:
       label: 'What is the motivation / use case for changing the behavior?'
       description: 'Describe the motivation or the concrete use case'

@@ -110,6 +110,7 @@ body:
         - label: macOS
         - label: Windows
         - label: Linux
+        - label: Chromebook
 
   - type: markdown
     attributes:
